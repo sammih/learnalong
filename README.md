@@ -1,1 +1,1 @@
-## Getting familiar with laravel frameword
+## Getting familiar with laravel framework
